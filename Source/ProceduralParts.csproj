@@ -77,18 +77,18 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\Build\ProceduralParts\Release\Assembly-CSharp.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Spiele\Kerbal Space Program\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\Build\ProceduralParts\Release\UnityEngine.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Spiele\Kerbal Space Program\KSP_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Core">
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>..\..\Build\ProceduralParts\Release\UnityEngine.UI.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Spiele\Kerbal Space Program\KSP_Data\Managed\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
@@ -122,7 +122,6 @@
     <Compile Include="Utilities\EnumUtils.cs" />
     <Compile Include="Utilities\ListUtils.cs" />
     <Compile Include="Utilities\VectorUtils.cs" />
-    <Compile Include="zzVersionChecker.cs" />
     <Compile Include="Utilities\KSPUtils.cs" />
     <Compile Include="Utilities\UnityUtils.cs" />
     <Compile Include="EngineWrapper.cs" />
